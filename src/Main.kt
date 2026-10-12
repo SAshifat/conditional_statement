@@ -1,4 +1,4 @@
-/*
+
 fun main(){
     println("inter first number:")
     val a = readln().toInt()
@@ -22,7 +22,7 @@ fun main(){
 
 }
 
- */
+ 
 
 fun main(){
     println("Enter your marks: ")
